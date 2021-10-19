@@ -16,11 +16,6 @@ section > h2 {
       font-weight: bold;
 }
 
-
-.texto{
-      width: 30vw;
-}
-
 .texto > p {
       text-align: justify;
 }
@@ -29,9 +24,6 @@ section > h2 {
 #sobre-nos {
       background-image: url('../../img/index/index-Image.jpg');
       height: 60vh;
-}
-
-#titulo {
       text-shadow: 1px 1px 3px rgb(14, 3, 63);
 }
 
