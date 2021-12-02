@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/*Desculpa pelo trabalho!! */
+
+body
+{
+    background-color: #6610f2;
+}
+
+.jogoTitulo
+{
+    font-size: 48px;
+    color: lightgrey;
+}
+
+.text-underline-hover 
+{
+    color: lightgray;
+    text-decoration: none;
+}
+.text-underline-hover:hover 
+{
+    color: lightgray;
+    text-decoration: underline;
+}

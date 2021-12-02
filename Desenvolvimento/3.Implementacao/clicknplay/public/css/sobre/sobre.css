@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+#conteudo {
+      padding: 0px;
+}
+
+section {
+      color: white;
+      padding-top: 6em;
+}
+
+section > h2 {
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+}
+
+
+.texto{
+      width: 30vw;
+}
+
+.texto > p {
+      text-align: justify;
+}
+
+/* titulo-principal */
+#sobre-nos {
+      background-image: url('../../img/index/index-Image.jpg');
+      height: 60vh;
+}
+
+#titulo {
+      text-shadow: 1px 1px 3px rgb(14, 3, 63);
+}
+
+#subtitulo {
+      font-size: 1em;
+}
+
+#mini {
+      font-size: 0.5em;
+}
+
+#nome{
+      font-size: 1.25em;
+      font-family: 'Kaushan Script', cursive;
+}
+/* Catalogo de jogos */
+
+#jogos{
+      background-color: rgb(31, 19, 43);
+      height: 70vh;
+}
+
+/* Publique seus jogos */
+
+#publique {
+      background-color: rgb(3, 0, 7);
+      height: 70vh;
+}

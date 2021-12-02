@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-color: #6a43b3;
+}
+
+.conteudo-1{
+    height: 85vh;
+    background-color: white;
+}
+
+.conteudo-1 img{
+    height: 100%;
+    width: 100%;
+}
+
+.conteudo-2{
+    background-color: white;
+    text-align: center;
+}
+
+.destaques img{
+    width: 80%;
+    height: 85%;
+}

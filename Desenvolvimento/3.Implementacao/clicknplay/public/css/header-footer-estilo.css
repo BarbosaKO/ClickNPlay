@@ -1,0 +1,14 @@
+.header-logo{
+    height: 30%;
+    width: 30%;
+}
+
+.btn-outline-info{
+    color:#6a43b3; 
+    border-color: #6a43b3;
+}
+
+.btn-outline-info:hover, .btn-outline-info:focus, .btn-outline-info:active, .btn-outline-info.active, .open .dropdown-toggle.btn-outline-info{
+    background-color: #6a43b3;
+    border-color: #6a43b3;
+}
