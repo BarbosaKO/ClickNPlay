@@ -17,6 +17,18 @@ Route::get('/', function () {
     return view('homepage');
 });
 
+Route::get('/catalogo', function () {
+    return view('catalogo');
+});
+
+Route::get('/gamepage', function () {
+    return view('gamepage');
+});
+
+Route::get('/sobre', function () {
+    return view('sobre');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
