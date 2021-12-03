@@ -13,8 +13,20 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/index.html', function () {
     return view('homepage');
+});
+
+Route::get('/catalogo.html', function () {
+    return view('catalogo');
+});
+
+Route::get('/sobre.html', function () {
+    return view('sobre');
+});
+
+Route::get('/gamepage.html', function () {
+    return view('gamepage');
 });
 
 Route::get('/dashboard', function () {

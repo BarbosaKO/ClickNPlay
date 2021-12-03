@@ -8,6 +8,9 @@
 
     <link rel="stylesheet" href="css/header-footer-estilo.css">
     <link rel="stylesheet" href="css/index/index-estilo.css">
+    <link rel="stylesheet" href="css/estiloCatalogo/estiloCatalogo.css">
+    <link rel="stylesheet" href="css/estiloGame-Page/estiloGame-Page.css">
+    <link rel="stylesheet" href="css/sobre/sobre.css">
 
     <!-- Bootstrap CSS v5.0.2 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"  integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
