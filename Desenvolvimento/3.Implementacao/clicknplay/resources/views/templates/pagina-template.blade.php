@@ -13,30 +13,30 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"  integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
   </head>
-  <body>
+<body>
 
     <header>
-      <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
-          <div class="container-fluid">
-              <a class="navbar-brand" href="index.html">
-                  <img class="header-logo" src="img/logo.png" alt="Logo">
-              </a>
+        <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">
+                    <img class="header-logo" src="img/logo.png" alt="Logo">
+                </a>
   
-              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-              </button>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
   
-              <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                      <li class="nav-item">
-                          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-                      </li>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        </li>
   
-                      <li class="nav-item dropdown">
-                          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                              Gêneros
-                          </a>
-                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Gêneros
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                               <li><a class="dropdown-item" href="#">Grátis</a></li>
                               <li><a class="dropdown-item" href="#">Acesso Antecipado</a></li>
                               <li><hr class="dropdown-divider"></li>
@@ -48,51 +48,56 @@
                               <li><a class="dropdown-item" href="#">RPG</a></li>
                               <li><a class="dropdown-item" href="#">Corrida</a></li>
                               <li><a class="dropdown-item" href="catalogo.html">Mais..</a></li>
-                          </ul>
-                      </li>
+                            </ul>
+                        </li>
   
-                      <li class="nav-item">
-                          <a class="nav-link" href="sobre.html">Sobre</a>
-                      </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="sobre.html">Sobre</a>
+                        </li>
   
-                      <li class="nav-item">
-                          <a class="nav-link" href="#">Suporte</a>
-                      </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Suporte</a>
+                        </li>
       
-                  </ul>
+                     </ul>
   
-                  <form class="d-flex mb-2 mb-lg-0">
+                    <form class="d-flex mb-2 mb-lg-0">
                       <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                       <button class="btn btn-outline-info me-5" type="submit">Pesquisar</button>
-                  </form>
+                    </form>
   
                   <ul class="navbar-nav">
                     @if (Route::has('login'))
                       @auth
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                           <a href="{{ url('/dashboard') }}" class="nav-link">Dashboard</a>
-                        </li>
+                        </li> -->
 
                         <!-- Precisa arrumar -->
-                        <li class="nav-item">
-                          <a href="{{ route('logout') }}" class="nav-link">Sair</a>
-                        </li>
-                      @else
+                    <form method="POST" action="{{ route('logout') }}">
+                        @csrf
+                        <a href="route('logout')" class="btn btn-outline-danger"
+                                onclick="event.preventDefault();
+                                            this.closest('form').submit();">
+                            {{ __('Log Out') }}
+                        </a>
+                    </form>
+                        @else
                         <li class="nav-item">
                           <a href="{{ route('login') }}" class="nav-link">Login</a>
                         </li>
                         @if (Route::has('register'))
-                          <li class="nav-item">
+                        <li class="nav-item">
                             <a href="{{ route('register') }}" class="nav-link">Registrar</a>
-                          </li>
+                         </li>
                         @endif
                       @endauth
                     @endif
-                  </ul>
-              </div>
-          </div>
-      </nav>
-  </header>
+                     </ul>
+                 </div>
+             </div>
+        </nav>
+    </header>
     
     @yield('conteudo')
 
