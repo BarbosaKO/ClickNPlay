@@ -13,19 +13,19 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/index.html', function () {
+Route::get('/', function () {
     return view('homepage');
 });
 
-Route::get('/catalogo.html', function () {
+Route::get('/catalogo', function () {
     return view('catalogo');
 });
 
-Route::get('/sobre.html', function () {
+Route::get('/sobre', function () {
     return view('sobre');
 });
 
-Route::get('/gamepage.html', function () {
+Route::get('/gamepage', function () {
     return view('gamepage');
 });
 

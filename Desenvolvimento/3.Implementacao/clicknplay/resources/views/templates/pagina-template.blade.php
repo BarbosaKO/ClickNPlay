@@ -6,14 +6,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <!-- Bootstrap CSS v5.0.2 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"  integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
     <link rel="stylesheet" href="css/header-footer-estilo.css">
     <link rel="stylesheet" href="css/index/index-estilo.css">
     <link rel="stylesheet" href="css/estiloCatalogo/estiloCatalogo.css">
     <link rel="stylesheet" href="css/estiloGame-Page/estiloGame-Page.css">
     <link rel="stylesheet" href="css/sobre/sobre.css">
-
-    <!-- Bootstrap CSS v5.0.2 -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"  integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
   </head>
 <body>
@@ -32,7 +32,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                            <a class="nav-link active" aria-current="page" href="/">Home</a>
                         </li>
   
                         <li class="nav-item dropdown">
@@ -50,12 +50,12 @@
                               <li><a class="dropdown-item" href="#">MMO</a></li>
                               <li><a class="dropdown-item" href="#">RPG</a></li>
                               <li><a class="dropdown-item" href="#">Corrida</a></li>
-                              <li><a class="dropdown-item" href="catalogo.html">Mais..</a></li>
+                              <li><a class="dropdown-item" href="catalogo">Mais..</a></li>
                             </ul>
                         </li>
   
                         <li class="nav-item">
-                            <a class="nav-link" href="sobre.html">Sobre</a>
+                            <a class="nav-link" href="sobre">Sobre</a>
                         </li>
   
                         <li class="nav-item">
