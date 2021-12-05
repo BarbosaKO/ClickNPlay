@@ -1,8 +1,12 @@
 @extends('templates.pagina-template')
 @section('titulo', 'ClickNPlay | Gamepage')
 @section('conteudo')
+<head>
+    <link rel="stylesheet" href="estiloGame-Page.css"
+</head>
+
 <div class="container-fluid">
-        
+
     <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12">
             <H1>Counter-Strike</H1>
@@ -21,21 +25,21 @@
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 3"></button>
                 </div>
 
-                <div class="carousel-inner">
+                <div class="gamepage-carousel-inner carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./img/cs1.6-Page/cs_img1-md.jpg" class="rounded mx-auto d-block carrossel" alt="...">
+                        <img src="./img/cs1.6-Page/cs_img1-md.jpg" class="rounded mx-auto d-block gamepage-carrossel" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./img/cs1.6-Page/cs_img2-md.jpg" class="rounded mx-auto d-block carrossel" alt="...">
+                        <img src="./img/cs1.6-Page/cs_img2-md.jpg" class="rounded mx-auto d-block gamepage-carrossel" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./img/cs1.6-Page/cs_img3-md.jpg" class="rounded mx-auto d-block carrossel" alt="...">
+                        <img src="./img/cs1.6-Page/cs_img3-md.jpg" class="rounded mx-auto d-block gamepage-carrossel" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./img/cs1.6-Page/cs_img4-md.jpg" class="rounded mx-auto d-block carrossel" alt="...">
+                        <img src="./img/cs1.6-Page/cs_img4-md.jpg" class="rounded mx-auto d-block gamepage-carrossel" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./img/cs1.6-Page/cs_img5-md.jpg" class="rounded mx-auto d-block carrossel" alt="...">
+                        <img src="./img/cs1.6-Page/cs_img5-md.jpg" class="rounded mx-auto d-block gamepage-carrossel" alt="...">
                     </div>
                 </div>
 
@@ -51,7 +55,7 @@
 
         <div class="col-sm-4 col-md-4 col-lg-4">
             <div class="card bg-dark text-white">
-                <img src="./img/cs1.6-Page/cs_main-md.jpg" class="card-img-top">
+                <img src="./img/cs1.6-Page/cs_main-md.jpg" class="gamepage-card-img-top">
                 <div class="card-body">
                     <h5 class="card-title">Counter-Strike</h5>
                     <h6 class="card-title">Desenvolvedor: <a href="https://www.valvesoftware.com/pt-br/">Valve Corporation</a></h6>
@@ -60,68 +64,6 @@
                 
                 <div class="card-body">
                     <a href="https://store.steampowered.com/app/10/CounterStrike/" class="card-link btn btn-info">Download</a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-12">
-            <h3>Jogos como este:</h3>
-        </div>
-    </div>
-        
-    <div class="row">
-        <div class="col-sm-4 col-md-4 col-lg-4">
-            <div class="card bg-dark text-white mb-3" style="max-width: 480px">
-                <a href="#" class="text-underline-hover ms-3"><h5 class="card-title pt-3">Rocket League</h5></a>
-                
-                <div class="row g-0">
-                    <div class="d-flex flex-wrap align-items-center col-md-6">
-                        <img src="./img/Thumbs/rocket-league-1.jpg" class="img-fluid rounded center d-block" alt="...">
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="card-body">
-                            <p class="card-text">Rocket League tem de um a quatro jogadores designados para cada uma das duas equipes, usando veículos movidos a foguete para acertar o gol do adversário e marcar pontos ao longo de uma partida.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-4 col-md-4 col-lg-4">
-            <div class="card bg-dark text-white mb-3" style="max-width: 480px">
-                <a href="#" class="text-underline-hover ms-3"><h5 class="card-title pt-3">Far Cry 5</h5></a>
-                
-                <div class="row g-0">
-                    <div class="d-flex flex-wrap align-items-center col-md-6">
-                        <img src="./img/Thumbs/far-cry5-1.jpg" class="img-fluid rounded center d-block" alt="...">
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="card-body">
-                            <p class="card-text">Bem-vindo a Hope County, Montana, terra dos livres e valentes, mas também o lar de um culto apocalíptico fanático, conhecido como O Projeto em Eden’s Gate, que está ameaçando a liberdade da comunidade.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-4 col-md-4 col-lg-4">
-            <div class="card bg-dark text-white mb-3" style="max-width: 480px">
-                <a href="#" class="text-underline-hover ms-3"><h5 class="card-title pt-3">Deep Rock Galactic</h5></a>
-                
-                <div class="row g-0">
-                    <div class="d-flex flex-wrap align-items-center col-md-6">
-                        <img src="./img/Thumbs/Deep-Rock-Galactic-1.jpg" class="img-fluid rounded center d-block" alt="...">
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="card-body">
-                            <p class="card-text">Deep Rock Galactic é um FPS de co-op de ficção científica com Anões durões, ambientes 100% destrutíveis, grutas processualmente geradas e inúmeras hordas de monstros alienígenas.</p>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>

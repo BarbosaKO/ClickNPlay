@@ -4,7 +4,8 @@
 
 body
 {
-    background-color: #6610f2;
+    /* background-color: #6a43b3; */
+    background-color: rgb(35, 35, 189);
 }
 
 .jogoTitulo
@@ -22,4 +23,14 @@ body
 {
     color: lightgray;
     text-decoration: underline;
+}
+
+.gamepage-card-img-top
+{
+    size: auto;
+}
+
+img.gamepage-carrossel
+{
+    width: 800px;
 }

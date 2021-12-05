@@ -15,7 +15,7 @@
             </div>
             <div class="row mt-3">
                 <div class="col-sm-12 col-md-12 col-lg-12">   
-                    <button class="btn btn-info">Saiba mais</button>
+                    <button class="btn btn-info"><a href="gamepage">Saiba mais</a></button>
                 </div>
             </div>
         </div>

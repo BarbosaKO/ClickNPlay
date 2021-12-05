@@ -71,12 +71,7 @@
   
                   <ul class="navbar-nav">
                     @if (Route::has('login'))
-                      @auth
-                        <!-- <li class="nav-item">
-                          <a href="{{ url('/dashboard') }}" class="nav-link">Dashboard</a>
-                        </li> -->
-
-                        <!-- Precisa arrumar -->
+                    @auth
                     <form method="POST" action="{{ route('logout') }}">
                         @csrf
                         <a href="route('logout')" class="btn btn-outline-danger"
