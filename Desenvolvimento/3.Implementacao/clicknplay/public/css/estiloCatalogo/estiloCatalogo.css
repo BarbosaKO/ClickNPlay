@@ -35,8 +35,7 @@
     margin-left: 170px;
 }
 
-.card > .card-img-top
-{
+.card > .imagem-card{
     max-width: 180px;
 }
 

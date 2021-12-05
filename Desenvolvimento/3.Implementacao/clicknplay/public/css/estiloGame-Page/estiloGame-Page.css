@@ -8,29 +8,22 @@ body
     background-color: rgb(35, 35, 189);
 }
 
-.jogoTitulo
-{
-    font-size: 48px;
-    color: lightgrey;
+.conteudo-game-page{
+    background-position: top;
+    background-repeat: no-repeat;
+    padding-top: 190px;
+    background-color: #e5e8f0;
 }
 
-.text-underline-hover 
-{
-    color: lightgray;
-    text-decoration: none;
-}
-.text-underline-hover:hover 
-{
-    color: lightgray;
-    text-decoration: underline;
+#img_principal>img{
+    width: 300px;
+    height: 400px;
 }
 
-.gamepage-card-img-top
-{
-    size: auto;
+#preco{
+    background-color: white;
 }
 
-img.gamepage-carrossel
-{
-    width: 800px;
+#preco>a{
+    width: 72%;
 }

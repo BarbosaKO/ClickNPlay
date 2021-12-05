@@ -53,35 +53,35 @@
                             <div class="carousel-item active">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">Need For Speed</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque2.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque2.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Apex Legends</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">F1 2021</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque4.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque4.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">The Sims 4</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Battlefield 2042</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -94,35 +94,35 @@
                             <div class="carousel-item">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">Need For Speed</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque2.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque2.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Apex Legends</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">F1 2021</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque4.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque4.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">The Sims 4</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Battlefield 2042</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -135,35 +135,35 @@
                             <div class="carousel-item">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">Need For Speed</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque2.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque2.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Apex Legends</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">F1 2021</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque4.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque4.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">The Sims 4</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Battlefield 2042</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -195,35 +195,35 @@
                             <div class="carousel-item active">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque2.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque2.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">Apex Legends</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Battlefield 2042</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">F1 2021</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque2.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque2.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -236,35 +236,35 @@
                             <div class="carousel-item">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque2.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque2.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Apex Legends</h5>
                                             <p class="card-text">R$ 70,00</p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Battlefield 2042</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">F1 2021</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque2.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque2.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -277,35 +277,35 @@
                             <div class="carousel-item">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque2.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque2.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Apex Legends</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Battlefield 2042</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 3</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -336,35 +336,35 @@
                             <div class="carousel-item active">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top img-fluid" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card img-fluid" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 3</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -377,35 +377,35 @@
                             <div class="carousel-item">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 3</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -418,35 +418,35 @@
                             <div class="carousel-item">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 3</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -477,35 +477,35 @@
                             <div class="carousel-item active">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 3</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -518,35 +518,35 @@
                             <div class="carousel-item">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 3</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
@@ -559,35 +559,35 @@
                             <div class="carousel-item">
                                 <div class="fileiraJogos">
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque3.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque3.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 3</h5>
                                             <p class="card-text">R$ 90,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque1.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque1.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body ">
                                             <h5 class="card-title">jogo 1</h5>
                                             <p class="card-text">R$ 70,00 </p>
                                         </div>
                                     </div>
                                     <div class="card d-inline-block">
-                                        <img src="img/index/destaque5.jpg" class="card-img-top" alt="...">
+                                        <img src="img/index/destaque5.jpg" class="card-img-top imagem-card" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">jogo 2</h5>
                                             <p class="card-text">R$ 100,00 </p>

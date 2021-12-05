@@ -50,17 +50,25 @@
                               <li><a class="dropdown-item" href="#">MMO</a></li>
                               <li><a class="dropdown-item" href="#">RPG</a></li>
                               <li><a class="dropdown-item" href="#">Corrida</a></li>
-                              <li><a class="dropdown-item" href="catalogo">Mais..</a></li>
+                              <li><a class="dropdown-item" href="/catalogo">Mais..</a></li>
                             </ul>
                         </li>
   
                         <li class="nav-item">
-                            <a class="nav-link" href="sobre">Sobre</a>
+                            <a class="nav-link" href="/sobre">Sobre</a>
                         </li>
   
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Suporte</a>
+                            <a class="nav-link" href="/suporte">Suporte</a>
                         </li>
+
+                    @if (Route::has('login'))
+                        @auth
+                        <li class="nav-item">
+                            <a class="nav-link" href="/projetos">Meu projetos</a>
+                        </li>
+                        @endauth
+                    @endif
       
                      </ul>
   
@@ -96,7 +104,6 @@
              </div>
         </nav>
     </header>
-    
     @yield('conteudo')
 
       <!-- Footer -->
