@@ -36,4 +36,6 @@ Route::get('/jogos/create', [JogoController::class, 'create'])->middleware(['aut
 
 Route::post('/jogos', [JogoController::class, 'store'])->middleware(['auth'])->name('store');
 
+Route::get('/jogos/delete/{id}', [JogoController::class, 'delete'])->middleware(['auth'])->name('delete');
+
 require __DIR__.'/auth.php';

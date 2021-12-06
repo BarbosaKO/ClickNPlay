@@ -32,7 +32,7 @@
                         <td>{{ $jogo->preco }}</td>
                         <td>
                             <a href="#" class="btn btn-info">Editar</a>
-                            <a href="#" class="btn btn-danger">Excluir</a>
+                            <a href="/jogos/delete/{{ $jogo->id }}" class="btn btn-danger">Excluir</a>
                         </td>
                     </tr>
                 @endforeach

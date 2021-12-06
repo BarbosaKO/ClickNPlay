@@ -57,4 +57,12 @@ class JogoController extends Controller
 
         return view('gamepage', ['jogo' => $jogo]);
     }
+
+    public function delete($id){
+
+        $jogo = Jogo::findOrFail($id);
+        $jogo->delete();
+
+        return redirect('/projetos')->with('msg', 'Jogo deletado com sucesso!');
+    }
 }
