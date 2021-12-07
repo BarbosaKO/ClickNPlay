@@ -15,7 +15,7 @@
             </div>
             <div class="row mt-3">
                 <div class="col-sm-12 col-md-12 col-lg-12">   
-                    <a href="gamepage" class="btn btn-info">Saiba mais</a>
+                    <a href="/sobre" class="btn btn-info">Saiba mais</a>
                 </div>
             </div>
         </div>

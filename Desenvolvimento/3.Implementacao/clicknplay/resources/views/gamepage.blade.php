@@ -1,7 +1,5 @@
 @extends('templates.pagina-template')
-
 @section('titulo', $jogo->nome)
-
 @section('conteudo')
 
 <div class="container-fluid conteudo-game-page" style='background-image: url("{{asset('img/fundo-game-page.png')}}"); background-repeat: no-repeat; background-position: top; padding-top: 190px; background-color: #e5e8f0;'>
@@ -23,7 +21,7 @@
         <div class="col-4">
             <div id="preco" class="py-5 text-center" style="background-color: white;">
                 <h3> R$ {{ $jogo->preco }}</h3>
-                <a href="#" class="btn btn-success py-4" style="width: 72%;">Compre</a>
+                <a href="https://store.steampowered.com/" class="btn btn-success py-4" style="width: 72%;">Compre</a>
             </div>
         </div>
     </div>

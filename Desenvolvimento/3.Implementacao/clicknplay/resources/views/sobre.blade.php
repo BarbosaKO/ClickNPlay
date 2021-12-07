@@ -11,7 +11,7 @@
                                           <h1 id="titulo"><span id="mini">Sobre nós </span><br>
                                           <span id="nome">Click'N'Play</span></h1>
                                           <h2 id="subtitulo">
-                                                A plataforma perfeita para comprar jogos e publicar os seus próprios jogos.
+                                                A plataforma perfeita para comprar e publicar os seus próprios jogos.
                                           </h2>
                                     </div>
                               </section>
@@ -26,7 +26,7 @@
                                           </article>
                                           <picture>
                                                 <source media="(max-width: 420px)" srcset="img/sobre-page/tela-catalogo-sm.png" type="image/png">
-                                                <img class="rounded float-lg-end mx-auto d-block" src="img/sobre-page/tela-catalogo-md.png" alt="">
+                                                <img class="rounded float-lg-end mx-auto d-block imagem-catalogo" src="img/sobre-page/tela-catalogo2-sm.png" alt="">
                                           </picture>
                                     </div>
                               
@@ -42,7 +42,7 @@
                                           </article>
                                           <picture>
                                                 <source media="(max-width: 420px)" srcset="img/sobre-page/tela-catalogo-sm.png" type="image/png">
-                                                <img class="rounded float-lg-start mx-auto d-block" src="img/sobre-page/tela-catalogo-md.png" alt="">
+                                                <img class="rounded float-lg-start mx-auto d-block imagem-catalogo" src="img/sobre-page/tela-catalogo2-sm.png" alt="">
                                           </picture>
                                           
                                     </div>
